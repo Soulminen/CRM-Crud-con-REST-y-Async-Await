@@ -6,6 +6,20 @@
       "telefono": "12",
       "empresa": "12212",
       "id": 26
+    },
+    {
+      "nombre": "yamil",
+      "email": "correo@correo.com",
+      "telefono": "1231321",
+      "empresa": "vodafone",
+      "id": 27
+    },
+    {
+      "nombre": "matheo",
+      "email": "matheo@matheo.com",
+      "telefono": "1234567",
+      "empresa": "Bebe",
+      "id": 28
     }
   ]
 }

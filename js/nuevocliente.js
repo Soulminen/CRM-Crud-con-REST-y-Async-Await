@@ -1,5 +1,5 @@
 import { mostrarAlerta } from "./funciones.js";
-
+import { nuevoCliente } from "./API.js";
 
 (function() {
 
@@ -27,7 +27,7 @@ import { mostrarAlerta } from "./funciones.js";
             return;
         }
 
-        console.log('Si se paso la validación');
+        nuevoCliente(cliente);
 
     }
 
